@@ -1,2 +1,2 @@
 # Projects
- Project to show skills
+ Projects to show skills

@@ -14,4 +14,4 @@ In this project we are goint through some data analysis to show python skills an
 
 * and more
 
-So go ahead and take a look to  ### Data Analysis with Python Project
+So go ahead and take a look to Data Analysis with Python Project

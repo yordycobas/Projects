@@ -1,6 +1,6 @@
 # Personal Monthly Cashflow
 
-### This is an excel file that has built-in functions to automate your Personal calculations and estimate how much money you will have leftover based on your numbers:
+### This is an excel file that has built-in functions to automate your Personal calculations and estimate how much money you will have left-over based on your numbers:
 
 So first thing first, the table is not perfect although is what I use to estimate my monthly budget, and there is a lot of room for improvement.
 
@@ -14,4 +14,6 @@ So this is how you fill out the table. Now a few things to note:
 * Expense column is based on January, so any change in January will autofill on the other months, but if you change 50 to 100 for March, that number will only be for March; the other month will show January's
 * The same way applies to the Bills and Account column
 
-So, yeah, ain't perfect, but it helps me with my budget, and I hope it does for others out there. Feel free to download the template, which is blank form.
+At the end of the sheets you are going to find a summary table of your income month to month and a Chart Vizualizing your Total Debt VS your Cashflow.
+
+So, yeah, ain't perfect, but it helps me with my budget, and I hope it does for others out there. Feel free to download the template, which is blank a form. I'm also open to comments and suggestions to learn more make improvements.
